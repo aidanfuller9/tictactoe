@@ -1,4 +1,6 @@
+let turnsTaken = 0
 
+let currentPlayer = "X"
 
 
 
